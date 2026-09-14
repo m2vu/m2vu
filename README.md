@@ -20,7 +20,7 @@ L'objectif est simple :
 
 🔎 Montrer que même le "free" peut être safe.
 
-Je veux créer un outil accessible et utile, permettant d'explorer et d'exploiter des informations publiques de manière responsable, tout en expérimentant différentes techniques liées au CSINT & OSINT.
+Je veux créer un outil accessible et utile, permettant d'explorer et d'exploiter des informations, tout en expérimentant différentes techniques liées au CSINT & OSINT.
 
 Le projet évolue constamment et de nouvelles fonctionnalités sont ajoutées au fur et à mesure de mes recherches et de mon apprentissage.
 
