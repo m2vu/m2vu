@@ -32,12 +32,9 @@ Développer m2vu.tool me permet de progresser dans plusieurs domaines :
 🌐 OSINT
 🔍 Recherche et analyse d'informations publiques
 🐍 Développement Python
-⚙️ Programmation C++
-🔷 Développement C#
-🌐 JavaScript et développement web
-🧩 Conception de multi-tools
-🤖 Automatisation
-📈 Toujours en train de coder
+
+
+
 
 Je suis encore un jeune développeur, donc je considère chaque projet comme une occasion d'apprendre.
 
