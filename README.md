@@ -4,7 +4,7 @@
 
 Je développe constamment. Quand je ne suis pas en train d'apprendre quelque chose de nouveau, je suis probablement en train de coder, tester une idée ou commencer un nouveau projet.
 
-🛠️ Mes langages
+🛠️ Mes langages : 
 🐍 Python
 ⚡ C++
 🔷 C#
